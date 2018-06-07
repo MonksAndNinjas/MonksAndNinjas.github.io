@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Test Your Might!! My first CLI gem project.**"
-date:       2018-06-07 17:29:01 +0000
+title:      "Test Your Might!! My first CLI gem project."
+date:       2018-06-07 13:29:02 -0400
 permalink:  test_your_might_my_first_cli_gem_project
 ---
 
