@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Pseudo Quasicrystals and Maximally Efficient Code**"
-date:       2018-07-17 21:56:57 +0000
+title:      "Pseudo Quasicrystals and Maximally Efficient Code"
+date:       2018-07-17 17:56:58 -0400
 permalink:  pseudo_quasicrystals_and_maximally_efficient_code
 ---
 
