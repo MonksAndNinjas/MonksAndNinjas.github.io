@@ -1,15 +1,14 @@
 # Site settings
-title: pone "hola mundo!"
+author: Joseph Jimenez
+title: Streams of Code
 header-img: img/home-bg.png
 email: blackbeltdiaries@gmail.com
-copyright_name: MonksAndNinjas
+copyright_name: Joseph Jimenez
 description: > # this means to ignore newlines until "baseurl:"
-  "Nadia! I really like this, I think I wanna learn to code!"
+   A, B, A, C, A, B, B -- "Get over here!"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MonksAndNinjas
-learn_profile: MonksAndNinjas
-email_username: blackbeltdiaries@gmail.com
 
 # Build settings
 markdown: kramdown
