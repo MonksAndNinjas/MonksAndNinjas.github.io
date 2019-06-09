@@ -70,8 +70,10 @@ Your server is running at 165.227.31.156:35598
 Thin web server (v1.7.2 codename Bachmanity)
 Maximum connections set to 1024
 Listening on 0.0.0.0:9292, CTRL+C to stop
-23.243.239.35 - - [30/Jul/2018:17:18:03 +0000] "GET / HTTP/1.1" 200 6 0.0036
-23.243.239.35 - - [30/Jul/2018:17:18:03 +0000] "GET /favicon.ico HTTP/1.1" 200 6 0.0004
+23.243.239.35 - - [30/Jul/2018:17:18:03 +0000] 
+"GET / HTTP/1.1" 200 6 0.0036
+23.243.239.35 - - [30/Jul/2018:17:18:03 +0000] 
+"GET /favicon.ico HTTP/1.1" 200 6 0.0004
 ```
 
 Originally the purpose of this thought exercise was to see how complicated I could get my program without using my ability to memorize name or look up, but through intuition to see how well I understand my knowledge. With that in mind I created a class to called Student to see if I could get a new Student to display on the browser. 
