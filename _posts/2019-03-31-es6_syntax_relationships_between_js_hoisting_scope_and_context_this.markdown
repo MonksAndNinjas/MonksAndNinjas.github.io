@@ -96,7 +96,8 @@ function getShape(condition) {
         // shape exists here with a value of undefined
         return false;
     }
-}```
+}
+```
 
 The if/else black don't create a local scope, therefore, shape is accessible everywhere outside the if block and within the function with an 'undefined' value.
 
