@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "Job Search 2019"
+date:       2019-08-26 16:11:19 +0000
+permalink:  job_search_2019
+---
+
+
+## Ready Set Go!!! 
+
+So I finished my last project for the Flatiron School about three months ago and have since then been working with my career coach to start compiling all my informatin for use in my job search. I was and still am really nervous as I have not had a formal interview in probably 8 years. Before starting with the Flatiron School I was teaching martial arts (Kenpo, Muay Thai) and typically the interviews I had for various gyms were all based on physical and instructional skill. Your body language and speech didn't affect the results as much. However, similarities do exist, such as a display of confidence and mastery. Gyms that have amateur and professional fighters will want to see higher levels of mastery and instruction as people's lives and money are on the line. Despite the nervousness, my career coarch turely did an amazing job in preparing me for what I will come across. Coaching sessions detailing networking, job search tactics, and interviewing all helped bring my anxiety down and allow for some executive function. 
+
+That was the last three months and today I officially kickstart my search. My focus is on front-end development and will most likely want to stay in that realm as I have a couple decades experience with art and love to experiment with design elements in CSS, P5JS, and JavaScript. To make things even more specific I also have a couple decades experience teaching, and practicing martial arts. I love to be active and test the limits of my body and while I don't compete anymore, I still spar and stay in fighting shape. So with that in mind I would like to find a job that not only uses my design and web develoment skills, but also values community, health and wellness. A front-end design position for a fitness company (ex: Fitbit) would be perfect. 
+
+Other factors that are important to me in my job search are finding jobs that allow a mixture of remote and office work. I have been married for 10 years and have a wonderful four year old that totally brings wonder and happiness in my life. As I am responsible for his school, wellbeing, etc. I need to have time to take care of my family, so a part-time job for now is a must. 
+
+Going through the carreer-prep portion of the Flatiron School curriculum has given me an appreciation for the process of finding a coding job. It's a lot to learn and I can't even imagine doing this alone. Having someone to hold you accountable makes such a big difference, plus having the money-back guarantee (I want to find a job, not get my money back) as a motivator to keep going strong every week is such a valuable incentive for me. I'll keep posting on my progress and hopefully I'm not doing this for too long as I am so eager to be useful for some company that can find value in me. 
+
+You'll hear from me soon!
