@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CSS - Nuances in Backgrounds and Borders"
-date:       2019-09-03 20:49:32 +0000
+date:       2019-09-03 16:49:33 -0400
 permalink:  css_-_nuances_in_backgrounds_and_borders
 ---
 
