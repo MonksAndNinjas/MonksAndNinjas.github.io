@@ -14,7 +14,7 @@ Let's say we want to create a white background with a semi-transparent white bor
 
 To correct this unholy mess, we want our background to not extend underneath the border, all we have to do is give it the value padding-box, which tells the browser to clip the background at the padding edge. That looks way better!
 
-<iframe height="350" style="width: 100%;" scrolling="no" title="Translucent Borders" src="//codepen.io/monksandninjas/embed/PoYJLGE/?height=350&theme-id=0&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="265" style="width: 100%;" scrolling="no" title="Translucent Borders" src="//codepen.io/monksandninjas/embed/PoYJLGE/?height=265&theme-id=0&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/'>Translucent Borders</a> by MonksAndNinjas
   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
@@ -35,10 +35,7 @@ Let's say, however, we only need two borders, we can use a regular border and th
 
 * Lastly, outlines may be non-rectangular. Although make sure to test the result in different browsers.
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="BaBwEyb" src="//codepen.io/monksandninjas/embed/BaBwEyb/?height=265&theme-id=0&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/monksandninjas/pen/BaBwEyb/'>BaBwEyb</a> by MonksAndNinjas
-  (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+
 
 ## Flexible Background
 
@@ -48,9 +45,6 @@ A common way to apply offsets from a corner is to make the background image foll
 
 Finally, the last method to create the same effect is the calc() solution. We want to position our background image 10px from the bottom and 10px from the right side. If we think of it in terms of offsets from the top-left corner, we basically want an offset of 100%-10px horizontally and 100%-10px vertically. With the calc() function we can do exactly that.
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Flexible Background" src="//codepen.io/monksandninjas/embed/mdbBgVz/?height=265&theme-id=0&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/monksandninjas/pen/mdbBgVz/'>Flexible Background</a> by MonksAndNinjas
-  (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+
 
 So that concludes our topic for the day! Tune in next time as we look at some more css options for typical problems. 
