@@ -8,10 +8,12 @@ permalink:  css_-_nuances_in_backgrounds_and_borders
 
 As a designer, my specialty will lie on the front side of the full-stack. With that in mind, I've decided to dedicate some of my blog posts cleaning up my css skills. Having a strong understanding of border and background manipulation has been important to me as much of what I do and enjoy is making borders and their contents behave in reliable ways. Whether it be multiple borders, changing colors, shadows, or inserting svg's, I have developed an appreciation of the difficulty of creating responsive websites. In this blog posts you will learn some basic options to correcting some pain in the butt problems involving css, borders, and backgrounds. So let's jump in and tackle some problems! 
 
+```
 <iframe height="265" style="width: 100%;" scrolling="no" title="Translucent Borders" src="//codepen.io/monksandninjas/embed/PoYJLGE/?height=265&theme-id=0&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/'>Translucent Borders</a> by MonksAndNinjas
   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+```
 
 ## Translucent Border
 
