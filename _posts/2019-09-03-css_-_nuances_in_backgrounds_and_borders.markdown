@@ -45,7 +45,4 @@ A common way to apply offsets from a corner is to make the background image foll
 
 Finally, the last method to create the same effect is the calc() solution. We want to position our background image 10px from the bottom and 10px from the right side. If we think of it in terms of offsets from the top-left corner, we basically want an offset of 100%-10px horizontally and 100%-10px vertically. With the calc() function we can do exactly that.
 
-<iframe>
-</iframe>
-
 So that concludes our topic for the day! Tune in next time as we look at some more css options for typical problems. 
