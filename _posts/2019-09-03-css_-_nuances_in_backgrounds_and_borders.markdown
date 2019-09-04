@@ -8,19 +8,16 @@ permalink:  css_-_nuances_in_backgrounds_and_borders
 
 As a designer, my specialty will lie on the front side of the full-stack. With that in mind, I've decided to dedicate some of my blog posts cleaning up my css skills. Having a strong understanding of border and background manipulation has been important to me as much of what I do and enjoy is making borders and their contents behave in reliable ways. Whether it be multiple borders, changing colors, shadows, or inserting svg's, I have developed an appreciation of the difficulty of creating responsive websites. In this blog posts you will learn some basic options to correcting some pain in the butt problems involving css, borders, and backgrounds. So let's jump in and tackle some problems! 
 
-```
- See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/'>Translucent Borders</a> by MonksAndNinjas
-  (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
-```
-
 ## Translucent Border
 
 Let's say we want to create a white background with a semi-transparent white border and have our body background visible. With the example shown below, our first attempt would be the box displayed on the top. With the correct method displayed on the bottom. As you can see, the first attempt, has made our border disapear. Despite the border seeming to disapear, it is still there and by default, backgrounds extend underneath the border area. Instead of having a semi-transparent white border through which our nice body background is shown, we ended up having semi-transparent white borders on opaque white, which are indistinguishable from plain white borders.
 
 To correct this unholy mess, we want our background to not extend underneath the border, all we have to do is give it the value padding-box, which tells the browser to clip the background at the padding edge. That looks way better!
 
-
-
+```
+ See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/'>Translucent Borders</a> by MonksAndNinjas
+  (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
+```
 ## Multiple Borders
 
 So when dealing with multiple borders one type of solution is the over-used box-shadow to create shadows. What was new to me was that it accepts a fourth parameter called the "spread radius", which makes the shadow larger (positive lengths) or smaller (negative lengths) by the amount specified. A positive spread radius combined with zero offsets and zero blur creates a "shadow" that looks more like a solid border. This is not the most ideal method, as you can create the same kind of border by using the border property. What's also pretty neat is that we can have as many box-shadows that we want, all we need to do is separate them with a comma as shown below. Some things should be pointed out using this method. 
