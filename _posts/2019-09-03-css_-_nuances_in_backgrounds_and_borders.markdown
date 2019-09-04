@@ -35,7 +35,7 @@ Let's say, however, we only need two borders, we can use a regular border and th
 * Lastly, outlines may be non-rectangular. Although make sure to test the result in different browsers.
 
 ```
-  See the Pen <a href='https://codepen.io/monksandninjas/pen/BaBwEyb/' data='1'>Multiple Borders</a> by MonksAndNinjas
+  See the Pen <a href='https://codepen.io/monksandninjas/pen/BaBwEyb/' data='11'>Multiple Borders</a> by MonksAndNinjas
   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
 ```
 
