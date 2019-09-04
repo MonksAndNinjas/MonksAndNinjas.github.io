@@ -15,7 +15,7 @@ Let's say we want to create a white background with a semi-transparent white bor
 To correct this unholy mess, we want our background to not extend underneath the border, all we have to do is give it the value padding-box, which tells the browser to clip the background at the padding edge. That looks way better!
 
 ```
- See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/'>Translucent Borders</a> by MonksAndNinjas
+ See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/' data='0,0'>Translucent Borders</a> by MonksAndNinjas
   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
 ```
 ## Multiple Borders
