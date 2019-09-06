@@ -16,8 +16,8 @@ To correct this unholy mess, we want our background to not extend underneath the
 
 
 > <iframe title="Translucent Borders" src="//codepen.io/monksandninjas/embed/PoYJLGE/?height=265&theme-id=0&default-tab=css,result">
->   See the Pen <a href='https://codepen.io/monksandninjas/pen/PoYJLGE/' data='5'>Translucent Borders</a> by MonksAndNinjas
->   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
+><a href='https://codepen.io/monksandninjas/pen/PoYJLGE/'>Translucent Borders</a> by MonksAndNinjas
+>   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>)
 > </iframe>
 
 
@@ -40,7 +40,7 @@ Let's say, however, we only need two borders, we can use a regular border and th
 
 > <iframe title="Multiple Borders" src="//codepen.io/monksandninjas/embed/BaBwEyb/?height=265&theme-id=0&default-tab=css,result">
 >   See the Pen <a href='https://codepen.io/monksandninjas/pen/BaBwEyb/' data='11'>Multiple Borders</a> by MonksAndNinjas
->   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
+>   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>)
 > </iframe>
 
 
@@ -55,7 +55,7 @@ Finally, the last method to create the same effect is the calc() solution. We wa
 
 > <iframe title="Flexible Background" src="//codepen.io/monksandninjas/embed/mdbBgVz/?height=265&theme-id=0&default-tab=css,result">
 >   See the Pen <a href='https://codepen.io/monksandninjas/pen/mdbBgVz/' data='16'>Flexible Background</a> by MonksAndNinjas
->   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>) on <a href='https://codepen.io'>CodePen</a>.
+>   (<a href='https://codepen.io/monksandninjas'>@monksandninjas</a>)
 > </iframe>
 
 
