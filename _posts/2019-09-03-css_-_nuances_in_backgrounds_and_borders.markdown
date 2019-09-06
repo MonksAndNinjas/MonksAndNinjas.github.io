@@ -14,7 +14,7 @@ Let's say we want to create a white background with a semi-transparent white bor
 
 To correct this unholy mess, we want our background to not extend underneath the border, all we have to do is give it the value padding-box, which tells the browser to clip the background at the padding edge. That looks way better!
 
->Translucent Borders
+>Translucent Borders -
 >//codepen.io/monksandninjas/embed/PoYJLGE/height=265&theme-id=0&default-tab=css,result
 >https://codepen.io/monksandninjas/pen/PoYJLGE/
 
@@ -34,7 +34,7 @@ Let's say, however, we only need two borders, we can use a regular border and th
 
 * Lastly, outlines may be non-rectangular. Although make sure to test the result in different browsers.
 
-> Multiple Borders
+> Multiple Borders -
 >//codepen.io/monksandninjas/embed/BaBwEyb/height=265&theme-id=0&default-tab=css,result
 >https://codepen.io/monksandninjas/pen/BaBwEyb/
 
@@ -46,7 +46,7 @@ A common way to apply offsets from a corner is to make the background image foll
 
 Finally, the last method to create the same effect is the calc() solution. We want to position our background image 10px from the bottom and 10px from the right side. If we think of it in terms of offsets from the top-left corner, we basically want an offset of 100%-10px horizontally and 100%-10px vertically. With the calc() function we can do exactly that.
 
-> Flexible Background
+> Flexible Background -
 >//codepen.io/monksandninjas/embed/mdbBgVheight=265&theme-id=0&default-tab=css,result
 >https://codepen.io/monksandninjas/pen/mdbBgVz/
 
