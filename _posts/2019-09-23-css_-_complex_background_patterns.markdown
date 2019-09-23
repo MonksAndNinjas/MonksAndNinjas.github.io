@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CSS - Complex Background Patterns"
-date:       2019-09-23 05:38:10 +0000
+date:       2019-09-23 01:38:11 -0400
 permalink:  css_-_complex_background_patterns
 ---
 
