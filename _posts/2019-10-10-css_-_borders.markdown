@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Css - Borders"
-date:       2019-10-10 18:13:47 +0000
+date:       2019-10-10 14:13:48 -0400
 permalink:  css_-_borders
 ---
 
@@ -27,7 +27,7 @@ background-clip: padding-box, border-box;
 
 This will bring us closer to what we want, but there are some unexpected repitition. The reason is that the default background-origin is padding-box, and so, the image is sized based on the padding-box and placed on the 0,0 point on the padding box. The rest is just repititions of that first background tile. To fix this, we will set the background-origin to border-box as well. The final result is show below in the codepen. 
 
-> Continuous Image Border 
+> Continuous Image Border -
 > //codepen.io/monksandninjas/embed/VwwvWXw?height=265&theme-id=0&default-tab=css,result
 > https://codepen.io/monksandninjas/pen/VwwvWXw
 
@@ -39,19 +39,19 @@ Now we will use the same technique, but this time with gradient-based patterns, 
 
 Final result is show below in the codepen:
 
-> Vintage Envelope 
+> Vintage Envelope -
 > //codepen.io/monksandninjas/embed/LYYpjVp?height=265&theme-id=0&default-tab=css,result
 > https://codepen.io/monksandninjas/pen/LYYpjVp
 
 For our next exercise we will create marching ants box. To create this effect we will convert the stripes to just black and white, reduce the width of the border to 1px (notice how the stripes now turn to a dashed border?), and change the background-size to something appropriate. Then, we animate the background-position to 100% to make it scroll.
 
-> Marching Ants 
+> Marching Ants -
 > //codepen.io/monksandninjas/embed/gOOaxwx?height=265&theme-id=0&default-tab=css,result
 > https://codepen.io/monksandninjas/pen/gOOaxwx
 
 Finally, we end with mimicing traditional footnotes. It's pretty simple, result is show below.
 
-> Footnotes
+> Footnotes -
 > //codepen.io/monksandninjas/embed/oNNjeZL?height=265&theme-id=0&default-tab=css,result
 > https://codepen.io/monksandninjas/pen/oNNjeZL
 
