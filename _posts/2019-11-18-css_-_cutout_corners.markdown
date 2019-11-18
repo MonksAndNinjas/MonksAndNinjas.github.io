@@ -49,9 +49,9 @@ background-repeat: no-repeat;
 
 There we go! Now let's put this all to this test and see if we can make four beveled corners. Check out the pen below.
 
-> CSS - Cutout Corners - 
-> //codepen.io/monksandninjas/embed/GRRPaVy?height=265&theme-id=default&default-tab=css,result
-> https://codepen.io/monksandninjas/pen/GRRPaVy
+> CSS Cutout Corners - 
+>  //codepen.io/monksandninjas/embed/GRRPaVy?height=265&theme-id=default&default-tab=css,result
+>  https://codepen.io/monksandninjas/pen/GRRPaVy
 
 The problem with this solution is that it requires five edits to change the background color and four to change the corner size. Using SCSS can help make the code more efficient, but we won't be covering that here. 
 
