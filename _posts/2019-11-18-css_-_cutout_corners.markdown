@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CSS - Cutout Corners"
-date:       2019-11-18 20:54:15 +0000
+date:       2019-11-18 15:54:16 -0500
 permalink:  css_-_cutout_corners
 ---
 
@@ -49,7 +49,7 @@ background-repeat: no-repeat;
 
 There we go! Now let's put this all to this test and see if we can make four beveled corners. Check out the pen below.
 
-> CSS - Cutout Corners 
+> CSS - Cutout Corners -
 > //codepen.io/monksandninjas/embed/GRRPaVy?height=265&theme-id=default&default-tab=css,result
 > https://codepen.io/monksandninjas/pen/GRRPaVy
 
