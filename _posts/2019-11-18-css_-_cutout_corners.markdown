@@ -49,7 +49,7 @@ background-repeat: no-repeat;
 
 There we go! Now let's put this all to this test and see if we can make four beveled corners. Check out the pen below.
 
-> CSS - Cutout Corners -
+> CSS - Cutout Corners - 
 > //codepen.io/monksandninjas/embed/GRRPaVy?height=265&theme-id=default&default-tab=css,result
 > https://codepen.io/monksandninjas/pen/GRRPaVy
 
